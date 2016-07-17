@@ -32,6 +32,9 @@ disable [SIP](https://support.apple.com/en-us/HT204899)
 finally, the wireless nic will work successfully.
 
 
+# Reference
 
+- [The most helpful article](http://www.tonymacx86.com/threads/guide-installation-of-usb-wireless-antenna-chipset-rt2870-rt3070-in-mac-os-x-10-11-x-el-capitan.183175/)
+- [If you wanna do it manually, read this article](http://www.jamesattard.com/2015/10/ralink-rt5370-usb-wifi-adapter-on-el.html)
 
 
